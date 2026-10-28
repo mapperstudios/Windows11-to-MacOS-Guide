@@ -8,4 +8,4 @@ We will not use any type of applications that require you to pay so everyone can
 ## Sample Images:
 
 ## Versions:
-[V0.5.1 Public Beta 1](Guides/V0.5.1 Public Beta 1)
+[V0.5.1 Public Beta 1](Guides/V0.5.1%20Public%20Beta%201)
