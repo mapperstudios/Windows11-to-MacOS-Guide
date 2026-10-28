@@ -7,7 +7,6 @@ We will not use any type of applications that require you to pay so everyone can
 
 ## Sample Images:
 ![Dark Mode(BETA)](https://i.postimg.cc/mDDfys1h/Screenshot-2026-10-28-175807.png)
-![Dock](https://i.postimg.cc/fb5QdLyS/Screenshot-2026-10-25-202659.png)
 
 ## Versions:
 [V0.5.1 Public Beta 1](Guides/V0.5.1%20Public%20Beta%201)
