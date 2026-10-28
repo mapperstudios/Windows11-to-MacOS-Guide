@@ -1,4 +1,4 @@
-# Windows11-to-MacOS-Guide
+# Windows11 to MacOS Guide
 The macOS desktop has a specific quality that a lot of Windows users find appealing: a minimal dock at the bottom, clean translucent elements, no icons cluttering the wallpaper, and a sense that each interface element has been thought about. You do not need to buy a Mac to get close to that aesthetic. With the right combination of small, focused tools, Windows 11 can be transformed convincingly.
 
 This guide goes layer by layer — dock, taskbar, window chrome, wallpaper, icons, and finally a desktop widget layer for the information that macOS users often miss when they switch platforms. Everything here is reversible and none of it requires editing system files.
