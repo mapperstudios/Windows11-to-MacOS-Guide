@@ -3,7 +3,7 @@ The macOS desktop has a specific quality that a lot of Windows users find appeal
 
 This guide goes layer by layer — dock, taskbar, window chrome, wallpaper, icons, and finally a desktop widget layer for the information that macOS users often miss when they switch platforms. Everything here is reversible and none of it requires editing system files.
 
-We will not use any type of applications that require you to pay so everyone can use this. Also, make sure you have enough RAM on your computer. We will not use too much of your storage so don’t worry! Thank you!
+We will not use any type of applications that require you to pay so everyone can use this. Also, make sure you have enough RAM on your computer. Please always check and see the updated version of the guide as some mods don't work after some time. We will not use too much of your storage so don’t worry! Thank you!
 
 ## Sample Images:
 
