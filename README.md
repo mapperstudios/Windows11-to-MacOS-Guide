@@ -6,6 +6,9 @@ This guide goes layer by layer — dock, taskbar, window chrome, wallpaper, icon
 We will not use any type of applications that require you to pay so everyone can use this. Also, make sure you have enough RAM on your computer. Please always check and see the updated version of the guide as some mods don't work after some time. We will not use too much of your storage so don’t worry! Thank you!
 
 ## Sample Images:
+Light Mode
+![Light Mode(BETA)](https://i.postimg.cc/CK3StmB0/Screenshot-2026-10-30-131151.png)
+Dark Mode
 ![Dark Mode(BETA)](https://i.postimg.cc/W35DCPnV/Screenshot-2026-10-29-162450.png)
 
 ## Versions:
